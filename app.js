@@ -222,7 +222,7 @@ function renderNews() {
   filtered.forEach((item) => {
     const article = document.createElement("article");
     article.className = "news-card";
-    const published = item.publishedAt ? formatDateTime(item.publishedAt) : "时间未知";
+    const published = item.publishedAt ? formatNewsDateTime(item.publishedAt) : "时间未知";
     const section = sectionLabels[item.section] || "未分类";
     const source = item.sourceName || "未知来源";
     const entities = (item.entities || []).slice(0, 4).map((entity) => `<span class="tag">${escapeHtml(entity)}</span>`).join("");
@@ -300,6 +300,27 @@ function formatDateTime(value) {
     hour: "2-digit",
     minute: "2-digit",
   }).format(date);
+}
+
+function formatNewsDateTime(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "时间未知";
+  const parts = Object.fromEntries(
+    new Intl.DateTimeFormat("en-CA", {
+      timeZone: "Asia/Shanghai",
+      month: "2-digit",
+      day: "2-digit",
+      hour: "2-digit",
+      minute: "2-digit",
+      hourCycle: "h23",
+    })
+      .formatToParts(date)
+      .map((part) => [part.type, part.value]),
+  );
+  if (parts.hour === "00" && parts.minute === "00") {
+    return `${parts.month}/${parts.day}`;
+  }
+  return `${parts.month}/${parts.day} ${parts.hour}:${parts.minute}`;
 }
 
 function escapeHtml(value) {
