@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="房地产行业与房企新闻跟踪" />
+    <title>房地产新闻跟踪</title>
+    <link rel="preconnect" href="https://unpkg.com" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js" defer></script>
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark">RE</span>
+        <div>
+          <h1>房地产新闻跟踪</h1>
+          <p id="lastUpdated">正在读取数据</p>
+        </div>
+      </div>
+      <nav class="source-nav" aria-label="source links">
+        <a href="https://www.cninfo.com.cn/new/commonUrl/pageOfSearch?url=disclosure/list/search" target="_blank" rel="noreferrer">巨潮</a>
+        <a href="https://www.hkexnews.hk/search/titlesearch.xhtml?lang=zh" target="_blank" rel="noreferrer">香港交易所</a>
+        <a href="https://www.guandian.cn/" target="_blank" rel="noreferrer">观点网</a>
+        <a href="https://www.cls.cn/telegraph" target="_blank" rel="noreferrer">财联社</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <img src="assets/market-banner.png" alt="" />
+        <div class="hero-overlay">
+          <div>
+            <span class="eyebrow">RSS + 官方公告接口</span>
+            <h2>政策、趋势、重点房企一屏收纳</h2>
+          </div>
+          <div class="hero-stats" aria-label="summary stats">
+            <div>
+              <span id="statTotal">0</span>
+              <small>收纳</small>
+            </div>
+            <div>
+              <span id="statToday">0</span>
+              <small>今日</small>
+            </div>
+            <div>
+              <span id="statSources">0</span>
+              <small>来源</small>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="toolbar" aria-label="filters">
+        <div class="segmented" role="tablist" aria-label="section filter">
+          <button class="active" data-section="all" type="button">全部</button>
+          <button data-section="industry" type="button">行业信息</button>
+          <button data-section="company" type="button">房企信息</button>
+        </div>
+        <label class="searchbox">
+          <i data-lucide="search"></i>
+          <input id="searchInput" type="search" placeholder="搜索政策、城市、房企、关键词" />
+        </label>
+        <select id="sourceFilter" aria-label="source filter">
+          <option value="all">全部来源</option>
+        </select>
+        <select id="archiveSelect" aria-label="archive date">
+          <option value="latest">最新收纳</option>
+        </select>
+      </section>
+
+      <section class="topic-strip" aria-label="topic links">
+        <a href="https://www.guandian.cn/" target="_blank" rel="noreferrer">中央政策</a>
+        <a href="https://www.cls.cn/telegraph" target="_blank" rel="noreferrer">一二线城市政策</a>
+        <a href="https://www.guandian.cn/" target="_blank" rel="noreferrer">拿地 / 土储</a>
+        <a href="https://www.guandian.cn/" target="_blank" rel="noreferrer">销售 / 均价</a>
+        <a href="https://www.cninfo.com.cn/new/commonUrl/pageOfSearch?url=disclosure/list/search" target="_blank" rel="noreferrer">A股公告</a>
+        <a href="https://www.hkexnews.hk/search/titlesearch.xhtml?lang=zh" target="_blank" rel="noreferrer">港股公告</a>
+      </section>
+
+      <section class="layout">
+        <aside class="panel">
+          <div class="panel-head">
+            <h3>重点房企</h3>
+            <span id="companyCount">15</span>
+          </div>
+          <div id="companyList" class="company-list"></div>
+        </aside>
+
+        <section class="feed">
+          <div class="feed-head">
+            <div>
+              <h3 id="feedTitle">最新收纳</h3>
+              <p id="feedSubTitle">按发布时间倒序</p>
+            </div>
+            <button id="refreshView" class="icon-button" type="button" title="刷新视图">
+              <i data-lucide="refresh-cw"></i>
+            </button>
+          </div>
+          <div id="statusList" class="status-list"></div>
+          <div id="newsList" class="news-list"></div>
+          <div id="emptyState" class="empty-state" hidden>
+            <i data-lucide="inbox"></i>
+            <p>没有匹配的收纳记录</p>
+          </div>
+        </section>
+      </section>
+    </main>
+  </body>
+</html>
