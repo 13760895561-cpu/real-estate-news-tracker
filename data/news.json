@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-02T13:46:41.712Z",
+  "generatedAt": "2026-08-02T15:11:09.270Z",
   "lookbackDays": 45,
   "stats": {
     "total": 900,
-    "today": 6,
+    "today": 9,
     "bySource": {
       "财联社": 18,
-      "观点网": 622,
-      "巨潮": 136,
-      "香港交易所": 124
+      "观点网": 625,
+      "巨潮": 135,
+      "香港交易所": 122
     },
     "bySection": {
-      "industry": 405,
-      "company": 495
+      "industry": 408,
+      "company": 492
     }
   },
   "sources": [
@@ -21,7 +21,7 @@
       "name": "巨潮",
       "status": "ok",
       "itemCount": 20,
-      "lastFetchedAt": "2026-08-02T13:46:45.732Z",
+      "lastFetchedAt": "2026-08-02T15:11:15.556Z",
       "error": ""
     },
     {
@@ -29,7 +29,7 @@
       "name": "巨潮",
       "status": "ok",
       "itemCount": 14,
-      "lastFetchedAt": "2026-08-02T13:46:46.631Z",
+      "lastFetchedAt": "2026-08-02T15:11:16.096Z",
       "error": ""
     },
     {
@@ -37,7 +37,7 @@
       "name": "巨潮",
       "status": "ok",
       "itemCount": 27,
-      "lastFetchedAt": "2026-08-02T13:46:47.166Z",
+      "lastFetchedAt": "2026-08-02T15:11:16.633Z",
       "error": ""
     },
     {
@@ -45,7 +45,7 @@
       "name": "巨潮",
       "status": "ok",
       "itemCount": 3,
-      "lastFetchedAt": "2026-08-02T13:46:48.958Z",
+      "lastFetchedAt": "2026-08-02T15:11:17.406Z",
       "error": ""
     },
     {
@@ -53,7 +53,7 @@
       "name": "巨潮",
       "status": "ok",
       "itemCount": 25,
-      "lastFetchedAt": "2026-08-02T13:46:49.718Z",
+      "lastFetchedAt": "2026-08-02T15:11:18.585Z",
       "error": ""
     },
     {
@@ -61,7 +61,7 @@
       "name": "巨潮",
       "status": "ok",
       "itemCount": 10,
-      "lastFetchedAt": "2026-08-02T13:46:50.259Z",
+      "lastFetchedAt": "2026-08-02T15:11:20.412Z",
       "error": ""
     },
     {
@@ -69,7 +69,7 @@
       "name": "巨潮",
       "status": "ok",
       "itemCount": 9,
-      "lastFetchedAt": "2026-08-02T13:46:50.841Z",
+      "lastFetchedAt": "2026-08-02T15:11:21.654Z",
       "error": ""
     },
     {
@@ -77,7 +77,7 @@
       "name": "香港交易所",
       "status": "ok",
       "itemCount": 7,
-      "lastFetchedAt": "2026-08-02T13:46:57.934Z",
+      "lastFetchedAt": "2026-08-02T15:11:25.656Z",
       "error": ""
     },
     {
@@ -85,7 +85,7 @@
       "name": "香港交易所",
       "status": "ok",
       "itemCount": 17,
-      "lastFetchedAt": "2026-08-02T13:47:01.422Z",
+      "lastFetchedAt": "2026-08-02T15:11:28.139Z",
       "error": ""
     },
     {
@@ -93,7 +93,7 @@
       "name": "香港交易所",
       "status": "ok",
       "itemCount": 4,
-      "lastFetchedAt": "2026-08-02T13:47:04.902Z",
+      "lastFetchedAt": "2026-08-02T15:11:30.643Z",
       "error": ""
     },
     {
@@ -101,7 +101,7 @@
       "name": "香港交易所",
       "status": "ok",
       "itemCount": 30,
-      "lastFetchedAt": "2026-08-02T13:47:07.349Z",
+      "lastFetchedAt": "2026-08-02T15:11:32.117Z",
       "error": ""
     },
     {
@@ -109,7 +109,7 @@
       "name": "香港交易所",
       "status": "ok",
       "itemCount": 4,
-      "lastFetchedAt": "2026-08-02T13:47:09.810Z",
+      "lastFetchedAt": "2026-08-02T15:11:34.596Z",
       "error": ""
     },
     {
@@ -117,7 +117,7 @@
       "name": "香港交易所",
       "status": "ok",
       "itemCount": 7,
-      "lastFetchedAt": "2026-08-02T13:47:12.282Z",
+      "lastFetchedAt": "2026-08-02T15:11:37.089Z",
       "error": ""
     },
     {
@@ -125,7 +125,7 @@
       "name": "香港交易所",
       "status": "ok",
       "itemCount": 17,
-      "lastFetchedAt": "2026-08-02T13:47:13.727Z",
+      "lastFetchedAt": "2026-08-02T15:11:39.571Z",
       "error": ""
     },
     {
@@ -133,7 +133,7 @@
       "name": "香港交易所",
       "status": "ok",
       "itemCount": 4,
-      "lastFetchedAt": "2026-08-02T13:47:15.165Z",
+      "lastFetchedAt": "2026-08-02T15:11:43.119Z",
       "error": ""
     },
     {
@@ -141,23 +141,23 @@
       "name": "香港交易所",
       "status": "ok",
       "itemCount": 6,
-      "lastFetchedAt": "2026-08-02T13:47:18.637Z",
+      "lastFetchedAt": "2026-08-02T15:11:45.594Z",
       "error": ""
+    },
+    {
+      "id": "guandian-rss-2",
+      "name": "观点网",
+      "status": "error",
+      "itemCount": 0,
+      "lastFetchedAt": "2026-08-02T15:11:45.853Z",
+      "error": "Status code 403"
     },
     {
       "id": "guandian-rss-1",
       "name": "观点网",
       "status": "error",
       "itemCount": 0,
-      "lastFetchedAt": "2026-08-02T13:47:18.914Z",
-      "error": "Status code 403"
-    },
-    {
-      "id": "cls-rss-1",
-      "name": "财联社",
-      "status": "error",
-      "itemCount": 0,
-      "lastFetchedAt": "2026-08-02T13:47:18.920Z",
+      "lastFetchedAt": "2026-08-02T15:11:45.853Z",
       "error": "Status code 403"
     },
     {
@@ -165,15 +165,15 @@
       "name": "财联社",
       "status": "error",
       "itemCount": 0,
-      "lastFetchedAt": "2026-08-02T13:47:18.920Z",
+      "lastFetchedAt": "2026-08-02T15:11:45.854Z",
       "error": "Status code 403"
     },
     {
-      "id": "guandian-rss-2",
-      "name": "观点网",
+      "id": "cls-rss-1",
+      "name": "财联社",
       "status": "error",
       "itemCount": 0,
-      "lastFetchedAt": "2026-08-02T13:47:18.924Z",
+      "lastFetchedAt": "2026-08-02T15:11:45.858Z",
       "error": "Status code 403"
     },
     {
@@ -181,31 +181,31 @@
       "name": "香港交易所",
       "status": "ok",
       "itemCount": 0,
-      "lastFetchedAt": "2026-08-02T13:47:21.576Z",
+      "lastFetchedAt": "2026-08-02T15:11:47.655Z",
       "error": ""
     },
     {
       "id": "cls-html-home",
       "name": "财联社",
-      "status": "ok",
-      "itemCount": 2,
-      "lastFetchedAt": "2026-08-02T13:47:24.156Z",
-      "error": ""
+      "status": "error",
+      "itemCount": 0,
+      "lastFetchedAt": "2026-08-02T15:11:48.581Z",
+      "error": "fetch failed"
+    },
+    {
+      "id": "cls-html-telegraph",
+      "name": "财联社",
+      "status": "error",
+      "itemCount": 0,
+      "lastFetchedAt": "2026-08-02T15:11:48.833Z",
+      "error": "fetch failed"
     },
     {
       "id": "guandian-html-real-estate",
       "name": "观点网",
       "status": "ok",
-      "itemCount": 9,
-      "lastFetchedAt": "2026-08-02T13:47:24.229Z",
-      "error": ""
-    },
-    {
-      "id": "cls-html-telegraph",
-      "name": "财联社",
-      "status": "ok",
-      "itemCount": 0,
-      "lastFetchedAt": "2026-08-02T13:47:24.405Z",
+      "itemCount": 11,
+      "lastFetchedAt": "2026-08-02T15:11:56.130Z",
       "error": ""
     },
     {
@@ -213,7 +213,7 @@
       "name": "观点网",
       "status": "ok",
       "itemCount": 4,
-      "lastFetchedAt": "2026-08-02T13:47:24.598Z",
+      "lastFetchedAt": "2026-08-02T15:11:57.231Z",
       "error": ""
     },
     {
@@ -221,7 +221,7 @@
       "name": "观点网",
       "status": "ok",
       "itemCount": 5,
-      "lastFetchedAt": "2026-08-02T13:47:24.962Z",
+      "lastFetchedAt": "2026-08-02T15:11:57.694Z",
       "error": ""
     }
   ],
@@ -308,8 +308,8 @@
       "publishedAt": "2026-08-01T16:00:00.000Z",
       "entities": [],
       "firstSeenAt": "2026-08-02T11:23:26.482Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "93f0d3badf692c689eda9c47",
@@ -325,8 +325,8 @@
       "publishedAt": "2026-08-01T16:00:00.000Z",
       "entities": [],
       "firstSeenAt": "2026-08-02T13:46:41.712Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "2cf6c43e2faa57819b063388",
@@ -344,8 +344,59 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-08-02T13:46:41.712Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
+    },
+    {
+      "id": "a2400db7c0e1c02cc0de6d68",
+      "section": "industry",
+      "topic": "销售/均价",
+      "topicUrl": "https://www.guandian.cn/",
+      "title": "上海新房价格涨幅领跑全国 7月成交2796套",
+      "summary": "",
+      "url": "https://www.guandian.cn/article/20260802/579727.html",
+      "sourceId": "guandian-html-real-estate",
+      "sourceName": "观点网",
+      "sourceHome": "https://www.guandian.cn/",
+      "publishedAt": "2026-08-01T16:00:00.000Z",
+      "entities": [],
+      "firstSeenAt": "2026-08-02T15:11:09.270Z",
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
+    },
+    {
+      "id": "493a4c181fc5403383aae985",
+      "section": "industry",
+      "topic": "行业趋势",
+      "topicUrl": "https://www.guandian.cn/",
+      "title": "深圳住宅7月网签8324套 同比增长13.8%",
+      "summary": "",
+      "url": "https://www.guandian.cn/article/20260802/579701.html",
+      "sourceId": "guandian-html-real-estate",
+      "sourceName": "观点网",
+      "sourceHome": "https://www.guandian.cn/",
+      "publishedAt": "2026-08-01T16:00:00.000Z",
+      "entities": [],
+      "firstSeenAt": "2026-08-02T15:11:09.270Z",
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
+    },
+    {
+      "id": "7278c3d0f5ec5eead28be1ad",
+      "section": "industry",
+      "topic": "行业趋势",
+      "topicUrl": "https://www.guandian.cn/",
+      "title": "广州坑口旧改地块起始价超16亿挂牌 8月28日竞价",
+      "summary": "",
+      "url": "https://www.guandian.cn/article/20260802/579692.html",
+      "sourceId": "guandian-html-real-estate",
+      "sourceName": "观点网",
+      "sourceHome": "https://www.guandian.cn/",
+      "publishedAt": "2026-08-01T16:00:00.000Z",
+      "entities": [],
+      "firstSeenAt": "2026-08-02T15:11:09.270Z",
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "a263a19ea2263c6c3296d980",
@@ -363,8 +414,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-31T17:48:01.260Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "1fe9a847577936cd09c388a1",
@@ -382,8 +433,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-31T17:48:01.260Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "e3d198422962ae666babb633",
@@ -401,8 +452,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-31T17:48:01.260Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "2defc3c98ac57fb257f80eae",
@@ -420,8 +471,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-31T17:48:01.260Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "8936bdb6ea84dea3925caf65",
@@ -439,8 +490,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-31T17:48:01.260Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "89143b2b9240c8dfcb44ed7c",
@@ -458,8 +509,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-31T13:03:28.562Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "b492a1f693264aaf4aa1be79",
@@ -477,8 +528,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-31T13:03:28.562Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "633b0dc77cc0b76290a16748",
@@ -496,8 +547,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-31T10:48:56.974Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "5599a6b982c5ac39c4b1cd62",
@@ -515,8 +566,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-31T10:48:56.974Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "5cfcd7705efab07dab981daa",
@@ -551,8 +602,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-30T16:42:52.779Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "c3f5fc9de8b964feceb5c50a",
@@ -790,8 +841,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-31T10:48:56.974Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "f978b7355a5757365df42f45",
@@ -809,8 +860,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-31T10:48:56.974Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "635038b080aadc77eb956172",
@@ -828,8 +879,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-31T10:48:56.974Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "71f4b719ea4bf9bbb365fa7a",
@@ -972,8 +1023,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-31T17:48:01.260Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "2d6af1eea6b9904e91835827",
@@ -989,8 +1040,8 @@
       "publishedAt": "2026-07-30T16:00:00.000Z",
       "entities": [],
       "firstSeenAt": "2026-07-31T17:48:01.260Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "4a1f9e5b4cea94e0011d559d",
@@ -1008,8 +1059,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-07-30T11:58:55.049Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "d19ae2d8a025072d139469e5",
@@ -1061,8 +1112,8 @@
         "绿地控股"
       ],
       "firstSeenAt": "2026-07-29T17:23:36.595Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "c466f6263fa73036d76cdc56",
@@ -1097,8 +1148,8 @@
       "publishedAt": "2026-07-29T16:00:00.000Z",
       "entities": [],
       "firstSeenAt": "2026-07-30T06:36:25.047Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "bc57c5d5fad0d29adc115260",
@@ -1584,8 +1635,8 @@
         "绿城中国"
       ],
       "firstSeenAt": "2026-07-29T09:45:04.229Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "c8f667e8784589804ec7ce1a",
@@ -1603,8 +1654,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-29T09:45:04.229Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "beb08afdc25bef4814a60425",
@@ -1639,8 +1690,8 @@
         "绿城中国"
       ],
       "firstSeenAt": "2026-07-29T09:45:04.229Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "789e3f62c67834e83b074fb8",
@@ -1658,8 +1709,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-29T09:45:04.229Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "18a2e107a13836fa95be995f",
@@ -1677,8 +1728,8 @@
         "绿城中国"
       ],
       "firstSeenAt": "2026-07-29T09:45:04.229Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "5c563288eff5a5a0d54c7f04",
@@ -1696,8 +1747,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-29T09:45:04.229Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "e3b8bb13772926cfe1f4b145",
@@ -1836,8 +1887,8 @@
       "publishedAt": "2026-07-28T16:00:00.000Z",
       "entities": [],
       "firstSeenAt": "2026-07-29T15:32:12.575Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "29b35beacb2aafa10d234fb5",
@@ -1872,8 +1923,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-07-28T15:27:59.180Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "948ce499bb10164f07fcb3f1",
@@ -1891,8 +1942,8 @@
         "金地集团"
       ],
       "firstSeenAt": "2026-07-27T17:05:29.910Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "877ad5e7c3afa5128748a346",
@@ -1910,8 +1961,8 @@
         "金地集团"
       ],
       "firstSeenAt": "2026-07-27T17:05:29.910Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "fc7c57211315e3b97e78052d",
@@ -2305,8 +2356,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-07-27T11:34:39.623Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "d25db6f5694359886bf91866",
@@ -2324,8 +2375,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-07-27T11:34:39.623Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "8e6d92b389717c7f89bc7301",
@@ -2867,8 +2918,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-24T16:51:26.455Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "24f34c36007a286cd3f4e2b2",
@@ -2886,8 +2937,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-24T16:51:26.455Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "cae306c09518861da7a37844",
@@ -2905,8 +2956,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-24T12:24:41.551Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "4c3ef6ab5ec7f6f4b09f0171",
@@ -2924,8 +2975,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-07-23T17:41:09.555Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "0c8b8cf298f416f4f907bd88",
@@ -2943,8 +2994,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-23T17:41:09.555Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "e00216778c717fabee66b30c",
@@ -2962,8 +3013,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-23T17:41:09.555Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "ea63d3cdc30fef430e3df8b0",
@@ -3382,8 +3433,8 @@
         "绿城中国"
       ],
       "firstSeenAt": "2026-07-23T12:45:30.760Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "8ab442171ed5e3611c35ccac",
@@ -3401,8 +3452,8 @@
         "绿城中国"
       ],
       "firstSeenAt": "2026-07-23T12:45:30.760Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "d531e3853df444429cc9ba84",
@@ -3420,8 +3471,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-07-23T10:32:29.185Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "00490ff29b1839a46c84aa36",
@@ -3740,8 +3791,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-07-22T11:57:30.813Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "514ae730e36c0566ecafe61f",
@@ -3759,8 +3810,8 @@
         "保利置业"
       ],
       "firstSeenAt": "2026-07-22T11:57:30.813Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "aa0cac5447dac9c938a5969b",
@@ -3778,8 +3829,8 @@
         "招商蛇口"
       ],
       "firstSeenAt": "2026-07-21T16:37:32.045Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "84c9279d935f49ccd5ec86ab",
@@ -3797,8 +3848,8 @@
         "招商蛇口"
       ],
       "firstSeenAt": "2026-07-21T16:37:32.045Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "113da7a7df6bf8eab21777c4",
@@ -3816,8 +3867,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-21T16:37:32.045Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "33bdc83450b2ac651c822af4",
@@ -3835,8 +3886,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-21T16:37:32.045Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "d290e7f38d11f502f9297678",
@@ -3854,8 +3905,8 @@
         "滨江集团"
       ],
       "firstSeenAt": "2026-07-21T16:37:32.045Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "0346ac34232b7623d1fd3470",
@@ -4399,8 +4450,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-21T14:14:25.859Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "a1c95405e876153ab3315259",
@@ -4418,8 +4469,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-21T14:14:25.859Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "bdb0e1d07a44f7de77fd228b",
@@ -4437,8 +4488,8 @@
         "绿地控股"
       ],
       "firstSeenAt": "2026-07-20T16:40:41.989Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "24c30610a014d2a01654b352",
@@ -4967,8 +5018,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-07-20T14:27:37.476Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "88e6c3a4bbba9bf6b6c58bd6",
@@ -4986,8 +5037,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-07-20T14:27:37.476Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "0e6c1e047a4750970773df1b",
@@ -5005,8 +5056,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-07-20T14:27:37.476Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "0dd68fa6623f8aa10a3163f7",
@@ -5024,8 +5075,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-07-20T14:27:37.476Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "e861174c86b2af1ce9401adf",
@@ -5240,8 +5291,8 @@
         "招商蛇口"
       ],
       "firstSeenAt": "2026-07-17T16:22:16.723Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "3978bb4f24906d1ad84c268d",
@@ -5259,8 +5310,8 @@
         "招商蛇口"
       ],
       "firstSeenAt": "2026-07-17T16:22:16.723Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "9abd281bcb1d1d7dbad7595f",
@@ -5278,8 +5329,8 @@
         "招商蛇口"
       ],
       "firstSeenAt": "2026-07-17T16:22:16.723Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "38c4bd8276220fcd10a9084b",
@@ -5297,8 +5348,8 @@
         "招商蛇口"
       ],
       "firstSeenAt": "2026-07-17T16:22:16.723Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "8954f41e68977087a390479e",
@@ -5316,8 +5367,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-17T16:22:16.723Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "d77dafcabec790ffd967168a",
@@ -5335,8 +5386,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-07-17T14:50:17.027Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "224451424e6a765e36127593",
@@ -5354,8 +5405,8 @@
         "建发房产"
       ],
       "firstSeenAt": "2026-07-17T14:50:17.027Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "dc173bc628b690355549e3c0",
@@ -5373,8 +5424,8 @@
         "中国金茂"
       ],
       "firstSeenAt": "2026-07-17T12:17:37.713Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "5d331fa87bf7e00fff760754",
@@ -5801,8 +5852,8 @@
         "招商蛇口"
       ],
       "firstSeenAt": "2026-07-16T15:48:48.851Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "7be7eb7404c9883c7ea252e4",
@@ -5820,8 +5871,8 @@
         "招商蛇口"
       ],
       "firstSeenAt": "2026-07-16T15:48:48.851Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "68aa0a4807b4e1214097c716",
@@ -5839,8 +5890,8 @@
         "建发房产"
       ],
       "firstSeenAt": "2026-07-16T09:31:53.942Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "32ed159df440453522782669",
@@ -5858,8 +5909,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-07-15T16:52:46.835Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "82d6e7e7fbe4cb35919524d0",
@@ -5877,8 +5928,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-07-15T16:52:46.835Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "52899cf1e5392ca5c0cca2a8",
@@ -5896,8 +5947,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-07-15T16:52:46.835Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "8b2ba7d1731d80172bad8e43",
@@ -5915,8 +5966,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-07-15T16:52:46.835Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "bd7209035f36ae923df6aaee",
@@ -5934,8 +5985,8 @@
         "绿地控股"
       ],
       "firstSeenAt": "2026-07-15T16:52:46.835Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "5fb25ab62d1790238ec405a4",
@@ -5953,8 +6004,8 @@
         "绿地控股"
       ],
       "firstSeenAt": "2026-07-15T16:52:46.835Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "2f81afa0b0c117026ef8d613",
@@ -6311,8 +6362,8 @@
         "招商蛇口"
       ],
       "firstSeenAt": "2026-07-15T12:06:10.196Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "86a20ea20066fab336a01ee8",
@@ -6330,8 +6381,8 @@
         "招商蛇口"
       ],
       "firstSeenAt": "2026-07-14T17:37:37.172Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "713041a48f9a59aad19a77fb",
@@ -6349,8 +6400,8 @@
         "招商蛇口"
       ],
       "firstSeenAt": "2026-07-14T17:37:37.172Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "52c6c09a644fdae1483e6dc8",
@@ -6368,8 +6419,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-14T17:37:37.172Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "f1c03996522df761fc8fbb99",
@@ -6387,8 +6438,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-14T17:37:37.172Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "c788e160fd2a654f3e87b01f",
@@ -6406,8 +6457,8 @@
         "金地集团"
       ],
       "firstSeenAt": "2026-07-14T17:37:37.172Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "f937f7ed0a6258f9ae6800e9",
@@ -6425,8 +6476,8 @@
         "金地集团"
       ],
       "firstSeenAt": "2026-07-14T17:37:37.172Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "e2ef70b1d0ac18c8708ca2bd",
@@ -6696,8 +6747,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-14T17:37:37.172Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "b55febdbea5f662ce1d99910",
@@ -6715,8 +6766,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-07-14T12:50:16.431Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "74901365761272fb6ca596a3",
@@ -6734,8 +6785,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-07-14T12:50:16.431Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "6078446de6bd366f940bc478",
@@ -6753,8 +6804,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-07-14T12:50:16.431Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "23d95cd3dde12499b1b65a23",
@@ -7111,8 +7162,8 @@
         "华润置地"
       ],
       "firstSeenAt": "2026-07-13T18:13:45.497Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "f9e41a5f5dc1f85f00f51f4d",
@@ -7130,8 +7181,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-07-13T18:13:45.497Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "671f73cff80c06abfca5144e",
@@ -7149,8 +7200,8 @@
         "龙湖集团"
       ],
       "firstSeenAt": "2026-07-13T10:42:22.188Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "311e717b08e53628ae25e7ce",
@@ -7365,8 +7416,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "9ab93870599b89b9847668cd",
@@ -7384,8 +7435,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "af228dbff37948b5ce1392b1",
@@ -7403,8 +7454,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "a5934f6c3c40966de17f8283",
@@ -7422,8 +7473,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "8e926d0e0953d9721a5c4571",
@@ -7441,8 +7492,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "399429a2718053930679229a",
@@ -7460,8 +7511,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "c8d788205fc59f94f80095fc",
@@ -7479,8 +7530,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "9b3c6365b2919bc6d4fc1026",
@@ -7498,8 +7549,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "63782816255ae6a3a53fc09e",
@@ -7517,8 +7568,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "1948bb754b679eec5ffa1c8d",
@@ -7536,8 +7587,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "ee776bf8f465fe3deff4b026",
@@ -7555,8 +7606,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "8afcd15ff975082a02375209",
@@ -7574,8 +7625,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "ba4d48571fe45bd7bb03ce72",
@@ -7593,8 +7644,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "a8c28a46443272ab1f72d982",
@@ -7612,8 +7663,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "b450913f17c7ea091dfdb5ed",
@@ -7631,8 +7682,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "ef8551603ffd716195e0957d",
@@ -7650,8 +7701,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "058ffbc3cbac158c2a868d75",
@@ -7669,8 +7720,8 @@
         "绿地控股"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "194d01591ce0aa6b8e856eb5",
@@ -7688,8 +7739,8 @@
         "绿地控股"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "009e32e7d551bbe810779669",
@@ -7707,8 +7758,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "dfe5336a8b602fead17a147b",
@@ -7726,8 +7777,8 @@
         "中国金茂"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "7bf8f1e723d07537f477e530",
@@ -7745,8 +7796,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "5d874beacdb43ac47ea42d78",
@@ -7764,8 +7815,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "fc3e400f8ddd514eb8e975fa",
@@ -7783,8 +7834,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "1741effaef693045117a4be8",
@@ -7802,8 +7853,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "fbdf10919a9558d548edcb1d",
@@ -7821,8 +7872,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "d444d6caec42a43a6dfff607",
@@ -7840,8 +7891,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "b387d577085c0272c44135ff",
@@ -7859,8 +7910,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "35c19b072338ef2f0a233c4c",
@@ -7878,8 +7929,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "11c5945a8e4d313b36b5a846",
@@ -7897,8 +7948,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "73284041911c14d713ca76a5",
@@ -7916,8 +7967,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "7b0c9a02549c1d6395561ebf",
@@ -7935,8 +7986,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "ed773462c0d83a724542f3c9",
@@ -7954,8 +8005,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "7011e8c637f58518bce0198e",
@@ -7973,8 +8024,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T17:30:27.682Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "7fb61452ce83f99dfbbeeba7",
@@ -7992,8 +8043,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T10:37:15.522Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "f95f346d684f03b22632d3b1",
@@ -8011,8 +8062,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-10T10:37:15.522Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "5ef244380bb7bdac38ab17ab",
@@ -8352,8 +8403,8 @@
         "中国金茂"
       ],
       "firstSeenAt": "2026-07-09T17:26:27.480Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "0384e5cf3981241f37e77bae",
@@ -8371,8 +8422,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-07-09T17:26:27.480Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "2f8ebbb3f268bfa85c911f47",
@@ -8390,8 +8441,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-08T16:17:25.969Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "e5be56f3ecc4a4fd595ab2ca",
@@ -8409,8 +8460,8 @@
         "绿地控股"
       ],
       "firstSeenAt": "2026-07-08T16:17:25.969Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "70bebcfd341131a9adb64be3",
@@ -8644,8 +8695,8 @@
         "建发房产"
       ],
       "firstSeenAt": "2026-07-08T09:17:11.194Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "3d6e5dd7ac82e1a5189f2f6b",
@@ -8663,8 +8714,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-07T23:32:04.259Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "2c8211edde2287dc0defdc87",
@@ -8682,8 +8733,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "dc3c161a10ae7c07c4c30f71",
@@ -8701,8 +8752,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "962a6b1afe27e53f29695cf4",
@@ -8720,8 +8771,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "1192c07e8ee4987be30dbf6e",
@@ -8739,8 +8790,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "5cbbc7f1b6f138555abe7768",
@@ -8758,8 +8809,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "c6529b8b159c83835e0c9c7c",
@@ -8777,8 +8828,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "5d33f79a7e850b5305013106",
@@ -8796,8 +8847,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "422f63bd810d19d4a7c053eb",
@@ -8815,8 +8866,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "0ad6337a102616866d813351",
@@ -8834,8 +8885,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "9f4827d0f0186137383165fd",
@@ -8853,8 +8904,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "54205b5888d929c6a3b01a23",
@@ -8872,8 +8923,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "b7ff1131929ca0efa3700d01",
@@ -8891,8 +8942,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "1ad2539691a35d162b57848c",
@@ -8910,8 +8961,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "1a2cdf5737ea890983ff94c7",
@@ -8929,8 +8980,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "c83df3ef997d9388817c023b",
@@ -9199,8 +9250,8 @@
         "绿城中国"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "82ef5302e5ee33934c4d461f",
@@ -9218,8 +9269,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "e91b6f6da6745c6e36464ef2",
@@ -9237,8 +9288,8 @@
         "绿城中国"
       ],
       "firstSeenAt": "2026-07-07T19:17:33.517Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "8b8e38a4b51d6c03cbe0d686",
@@ -9256,8 +9307,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-07-07T11:24:21.728Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "fed43026ec8a0b5afae3c770",
@@ -9275,8 +9326,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-07-07T11:24:21.728Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "8d25bf7e44a01242df6042dc",
@@ -9294,8 +9345,8 @@
         "金地集团"
       ],
       "firstSeenAt": "2026-07-06T19:22:33.644Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "3de843923443035e44aadf1e",
@@ -9701,8 +9752,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-07-06T13:03:46.332Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "d274adc164c45953fdd8ed61",
@@ -9720,8 +9771,8 @@
         "保利置业"
       ],
       "firstSeenAt": "2026-07-06T13:03:46.332Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "47b1cd0f66f2e2e65e029e15",
@@ -9739,8 +9790,8 @@
         "中国金茂"
       ],
       "firstSeenAt": "2026-07-06T13:03:46.332Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "e3bed8ae88343fb6965e02ba",
@@ -9991,8 +10042,8 @@
         "建发房产"
       ],
       "firstSeenAt": "2026-07-03T10:11:59.311Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "67433fcf27cfd676b5c64a64",
@@ -10010,8 +10061,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-07-03T10:11:59.311Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "e2364fd4de0894c7556a065d",
@@ -10065,8 +10116,8 @@
         "招商蛇口"
       ],
       "firstSeenAt": "2026-07-02T18:18:41.002Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "b04f885984ad218cb6e083a3",
@@ -10084,8 +10135,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-02T18:18:41.002Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "457d3115e5b15c7eeca0410c",
@@ -10103,8 +10154,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-02T18:18:41.002Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "9f47dc8394de4cf4ed91d75b",
@@ -10122,8 +10173,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-02T18:18:41.002Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "aee39644950fd7a780474186",
@@ -10546,8 +10597,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-07-02T18:18:41.002Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "e21f9b10e7f58f4f7dd7f065",
@@ -10565,8 +10616,8 @@
         "保利置业"
       ],
       "firstSeenAt": "2026-07-02T18:18:41.002Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "c9edb5410dcf1dabad4abeba",
@@ -10584,8 +10635,8 @@
         "保利置业"
       ],
       "firstSeenAt": "2026-07-02T18:18:41.002Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "0ffe549bf4ca673b447b734b",
@@ -10603,8 +10654,8 @@
         "保利置业"
       ],
       "firstSeenAt": "2026-07-02T18:18:41.002Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "560e68eae7f5bc7dcef07976",
@@ -10622,8 +10673,8 @@
         "保利置业"
       ],
       "firstSeenAt": "2026-07-02T18:18:41.002Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "54ce098c942cc76d0cf70c65",
@@ -10641,8 +10692,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-02T11:13:50.526Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "2e426f82545f7fc074a7635e",
@@ -10660,8 +10711,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-02T11:13:50.526Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "b155958903be4874bf591e36",
@@ -10679,8 +10730,8 @@
         "华润置地"
       ],
       "firstSeenAt": "2026-07-02T11:13:50.526Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "e27bd64ded24a9541f7a0163",
@@ -10698,8 +10749,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-07-02T11:13:50.526Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "6874217f5bac116ed57310a0",
@@ -10717,8 +10768,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-07-02T11:13:50.526Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "7c182fc4acf7b57d65ee3fcf",
@@ -10736,8 +10787,8 @@
         "龙湖集团"
       ],
       "firstSeenAt": "2026-07-02T11:13:50.526Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "f9032576ffe0e199b837aa5e",
@@ -10755,8 +10806,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-07-02T11:13:50.526Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "441950a7d1ab66bfd379b5c5",
@@ -10774,8 +10825,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-07-02T11:13:50.526Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "1e0804889a86e210b55e4ea7",
@@ -10827,8 +10878,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-07-01T19:14:40.024Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "f6028d263320b2788f1694da",
@@ -11204,8 +11255,8 @@
         "滨江集团"
       ],
       "firstSeenAt": "2026-07-01T11:42:58.524Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "a6570f063164a38e79135dc7",
@@ -11223,8 +11274,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-06-30T18:24:53.513Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "6e5c69bdfa357876282272be",
@@ -11242,8 +11293,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-06-30T18:24:53.513Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "55a1fa678be70e6f731b1322",
@@ -11261,8 +11312,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-06-30T18:24:53.513Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "10c67316b46faca893a3d95d",
@@ -11600,8 +11651,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-06-30T18:24:53.513Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "ad3bdbec5e66ce602f1c641d",
@@ -11619,8 +11670,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-06-30T18:24:53.513Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "b3534c92b212dbb40cd699d0",
@@ -11638,8 +11689,8 @@
         "万科"
       ],
       "firstSeenAt": "2026-06-30T18:24:53.513Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "94f1c6907e5979fdfc31ed2e",
@@ -11676,8 +11727,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-06-30T11:31:31.448Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "be1cc541cf24d99c7e5e2e14",
@@ -11695,8 +11746,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-06-29T19:25:24.673Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "20293d421f0f9c1c82821461",
@@ -11714,8 +11765,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-06-29T19:25:24.673Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "f822fcbc2768bfe3106499ae",
@@ -11733,8 +11784,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-06-29T19:25:24.673Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "56d7d364e42192eeb04e986e",
@@ -11752,8 +11803,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-06-29T19:25:24.673Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "8b67b76cffe41f1f8032a2d7",
@@ -11771,8 +11822,8 @@
         "招商蛇口"
       ],
       "firstSeenAt": "2026-06-29T19:25:24.673Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "31af15e2abedc86c13a6ea4e",
@@ -11790,8 +11841,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-06-29T19:25:24.673Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "ebda8d19858b2e3ca2dede28",
@@ -11809,8 +11860,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-06-29T19:25:24.673Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "98ad4e0e3017ae2d7834b6ef",
@@ -12188,8 +12239,8 @@
         "华润置地"
       ],
       "firstSeenAt": "2026-06-29T19:25:24.673Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "a8d103ab4f4f6da903372ce0",
@@ -12207,8 +12258,8 @@
         "绿城中国"
       ],
       "firstSeenAt": "2026-06-29T12:50:27.194Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "d059aaaba9a3ba315a10d480",
@@ -12226,8 +12277,8 @@
         "绿城中国"
       ],
       "firstSeenAt": "2026-06-29T12:50:27.194Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "7e70164705d4ec944c8b35df",
@@ -12245,8 +12296,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-06-29T12:50:27.194Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "21333244d45469aa0dc4bb7d",
@@ -12493,8 +12544,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-06-26T18:13:54.772Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "695ebe40e0edbd3bb569f70f",
@@ -12512,8 +12563,8 @@
         "金地集团"
       ],
       "firstSeenAt": "2026-06-26T18:13:54.772Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "c713390c1ca8c50cfa9e5e3a",
@@ -12531,8 +12582,8 @@
         "金地集团"
       ],
       "firstSeenAt": "2026-06-26T18:13:54.772Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "3ba0039db3b122f17d29b343",
@@ -12550,8 +12601,8 @@
         "金地集团"
       ],
       "firstSeenAt": "2026-06-26T18:13:54.772Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "2c0e5a5d2ee84b77b7cf3c14",
@@ -12569,8 +12620,8 @@
         "金地集团"
       ],
       "firstSeenAt": "2026-06-26T18:13:54.772Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "58cd32cf0bd7c2662ab2c64c",
@@ -12607,8 +12658,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-06-26T11:21:06.042Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "ad79364d135aa60bba83df4d",
@@ -12872,8 +12923,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-06-25T18:36:49.094Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "8c672a2d6254c065fa3b51bb",
@@ -12908,8 +12959,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-06-25T10:25:09.949Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "59493cab29e9eb920539d6f5",
@@ -13220,8 +13271,8 @@
         "中国金茂"
       ],
       "firstSeenAt": "2026-06-24T10:35:14.270Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "5767efedde777bda8872e30e",
@@ -13239,8 +13290,8 @@
         "中国金茂"
       ],
       "firstSeenAt": "2026-06-24T10:35:14.270Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "5c39880c3e849100eed34e7a",
@@ -13258,8 +13309,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-06-24T10:35:14.270Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "6e79b777032c1a9349f8bf44",
@@ -13277,8 +13328,8 @@
         "中国海外发展"
       ],
       "firstSeenAt": "2026-06-24T10:35:14.270Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "29739e7c8665b21b8bbab9c0",
@@ -13296,8 +13347,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-06-23T17:31:55.358Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "fbc28dcfcc6b38766eb9a74b",
@@ -13315,8 +13366,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-06-23T17:31:55.358Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "2a05b48b786a533859458ded",
@@ -13334,8 +13385,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-06-23T17:31:55.358Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "5c20544c66bf8d5c9a6ebdfa",
@@ -13353,8 +13404,8 @@
         "滨江集团"
       ],
       "firstSeenAt": "2026-06-23T17:31:55.358Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "4d1fac23a6475252f77144ea",
@@ -13654,8 +13705,8 @@
         "中国金茂"
       ],
       "firstSeenAt": "2026-06-23T17:31:55.358Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "9cf94ef1c0feaf2471748642",
@@ -13673,8 +13724,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-06-22T16:15:50.364Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "b0fc3caa7f1a26c272cbb5dd",
@@ -13692,8 +13743,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-06-22T16:15:50.364Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "d48f0df140f590e5dfd82b42",
@@ -13711,8 +13762,8 @@
         "保利发展"
       ],
       "firstSeenAt": "2026-06-22T16:15:50.364Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "f2c24fc6ec17c4168c2e3e40",
@@ -13730,8 +13781,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-06-22T16:15:50.364Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "db662457b2f8cdd478987449",
@@ -13749,8 +13800,8 @@
         "华发股份"
       ],
       "firstSeenAt": "2026-06-22T16:15:50.364Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "a48278bd1c2d867f098aca33",
@@ -14065,8 +14116,8 @@
         "越秀地产"
       ],
       "firstSeenAt": "2026-06-22T16:15:50.364Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "8bce48c2d96659660d0d6dfa",
@@ -14419,8 +14470,8 @@
         "绿地控股"
       ],
       "firstSeenAt": "2026-06-18T21:31:44.302Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "17b54c03cd76aa4017d3f6e8",
@@ -14438,8 +14489,8 @@
         "绿地控股"
       ],
       "firstSeenAt": "2026-06-18T21:31:44.302Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "bac5caf8f9d2141f5fb2413a",
@@ -14457,8 +14508,8 @@
         "绿地控股"
       ],
       "firstSeenAt": "2026-06-18T21:31:44.302Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "60eabfd7e5d3c50a391e1276",
@@ -14476,8 +14527,8 @@
         "绿城中国"
       ],
       "firstSeenAt": "2026-06-18T21:31:44.302Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "b2025cfb84f355cad776502d",
@@ -14495,8 +14546,8 @@
         "龙湖集团"
       ],
       "firstSeenAt": "2026-06-18T12:34:05.110Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "cfe8038ac82241019b359aac",
@@ -14514,8 +14565,8 @@
         "龙湖集团"
       ],
       "firstSeenAt": "2026-06-18T12:34:05.110Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "dcf072c518cb8039144b32a3",
@@ -14533,8 +14584,8 @@
         "华润置地"
       ],
       "firstSeenAt": "2026-06-18T12:34:05.110Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "bfdc58571afced45f45f2234",
@@ -14552,8 +14603,8 @@
         "招商蛇口"
       ],
       "firstSeenAt": "2026-06-18T12:34:05.110Z",
-      "lastSeenAt": "2026-08-02T13:46:41.712Z",
-      "collectedAt": "2026-08-02T13:46:41.712Z"
+      "lastSeenAt": "2026-08-02T15:11:09.270Z",
+      "collectedAt": "2026-08-02T15:11:09.270Z"
     },
     {
       "id": "ac6d45815ac091c9a7ee677b",
@@ -16481,63 +16532,6 @@
       "firstSeenAt": "2026-06-16T09:15:18.320Z",
       "lastSeenAt": "2026-07-24T15:02:42.327Z",
       "collectedAt": "2026-07-24T15:02:42.327Z"
-    },
-    {
-      "id": "398eddecc6dab5df1796a7d4",
-      "section": "company",
-      "topic": "港股公告",
-      "topicUrl": "https://www.hkexnews.hk/search/titlesearch.xhtml?lang=zh",
-      "title": "須予披露及持續關連交易及股東特別大會通告",
-      "summary": "綠城中國 通函 - [持續關連交易]",
-      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0609/2026060900753_c.pdf",
-      "sourceId": "hkex-03900",
-      "sourceName": "香港交易所",
-      "sourceHome": "https://www.hkexnews.hk/search/titlesearch.xhtml?lang=zh",
-      "publishedAt": "2026-06-09T09:47:00.000Z",
-      "entities": [
-        "绿城中国"
-      ],
-      "firstSeenAt": "2026-06-16T09:15:18.320Z",
-      "lastSeenAt": "2026-07-24T15:02:42.327Z",
-      "collectedAt": "2026-07-24T15:02:42.327Z"
-    },
-    {
-      "id": "491363f18a365e9e818c0a99",
-      "section": "company",
-      "topic": "A股公告",
-      "topicUrl": "https://www.cninfo.com.cn/new/commonUrl/pageOfSearch?url=disclosure/list/search",
-      "title": "关于为大连项目公司融资提供担保的公告",
-      "summary": "金地集团 600383",
-      "url": "https://static.cninfo.com.cn/finalpage/2026-06-09/1225357911.PDF",
-      "sourceId": "cninfo-600383",
-      "sourceName": "巨潮",
-      "sourceHome": "https://www.cninfo.com.cn/new/commonUrl/pageOfSearch?url=disclosure/list/search",
-      "publishedAt": "2026-06-08T16:00:00.000Z",
-      "entities": [
-        "金地集团"
-      ],
-      "firstSeenAt": "2026-06-16T09:15:18.320Z",
-      "lastSeenAt": "2026-07-24T15:02:42.327Z",
-      "collectedAt": "2026-07-24T15:02:42.327Z"
-    },
-    {
-      "id": "bfd3fb9047258c45a64555f9",
-      "section": "company",
-      "topic": "港股公告",
-      "topicUrl": "https://www.hkexnews.hk/search/titlesearch.xhtml?lang=zh",
-      "title": "海外監管公告",
-      "summary": "越秀地產 公告及通告 - [海外監管公告-證券發行及相關事宜]",
-      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0608/2026060801822_c.pdf",
-      "sourceId": "hkex-00123",
-      "sourceName": "香港交易所",
-      "sourceHome": "https://www.hkexnews.hk/search/titlesearch.xhtml?lang=zh",
-      "publishedAt": "2026-06-08T13:49:00.000Z",
-      "entities": [
-        "越秀地产"
-      ],
-      "firstSeenAt": "2026-06-16T09:15:18.320Z",
-      "lastSeenAt": "2026-07-23T15:19:14.735Z",
-      "collectedAt": "2026-07-23T15:19:14.735Z"
     }
   ]
 }
